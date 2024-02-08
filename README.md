@@ -206,4 +206,4 @@ of a guarantee in the future.
 
 
 ## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkekasicoid%2Fdocker-openvpn.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkekasicoid%2Fdocker-openvpn?ref=badge_shield&issueType=license)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkekasicoid%2Fdocker-openvpn.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkekasicoid%2Fdocker-openvpn?ref=badge_large&issueType=license)
