@@ -13,8 +13,8 @@ Extensively tested on [JagoanHosting Rp 100K /month](https://kekasi.link/vps-vpn
 
 #### Upstream Links
 
-* Docker Registry @ [kylemanna/openvpn](https://hub.docker.com/r/kylemanna/openvpn/)
-* GitHub @ [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn)
+* Docker Registry @ [kekasigen/openvpn](https://hub.docker.com/r/kekasigen/openvpn/)
+* GitHub @ [kekasicoid/docker-openvpn](https://github.com/kekasicoida/docker-openvpn)
 
 ## Quick Start
 
