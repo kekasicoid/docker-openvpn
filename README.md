@@ -195,7 +195,7 @@ of a guarantee in the future.
 ## Originally Tested On
 
 * Docker hosts:
-  * server a [JagoanHosting]([https://www.digitalocean.com/?refcode=d19f7fe88c94](https://kekasi.link/vps-vpn)) vps with 2GB RAM running Ubuntu 22.04
+  * server a [JagoanHosting Rp 100K /month](https://kekasi.link/vps-vpn)  vps with 2GB RAM running Ubuntu 22.04
 * Clients
   * Android App OpenVPN Connect 3.4.0 (9755) 
   * OpenVPN Connect 3.4.3 (3337) 
